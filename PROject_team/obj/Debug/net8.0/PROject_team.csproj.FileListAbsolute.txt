@@ -1,0 +1,15 @@
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\bin\Debug\net8.0\PROject_team.exe
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\bin\Debug\net8.0\PROject_team.deps.json
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\bin\Debug\net8.0\PROject_team.runtimeconfig.json
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\bin\Debug\net8.0\PROject_team.dll
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\bin\Debug\net8.0\PROject_team.pdb
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.AssemblyInfoInputs.cache
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.AssemblyInfo.cs
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.sourcelink.json
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.dll
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\refint\PROject_team.dll
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.pdb
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\PROject_team.genruntimeconfig.cache
+C:\Users\Maks\Source\Repos\vadyaKOV\Project_TEAM\PROject_team\obj\Debug\net8.0\ref\PROject_team.dll

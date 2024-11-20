@@ -4,7 +4,6 @@ using Magazine;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
 
-Console.WriteLine(28.0 / 9);
 Console.WriteLine("Введите количество строк и столбцов через пробел, запятую или точку с запятой:");
 string input = Console.ReadLine();
 string[] dimensions = input.Split(new char[] { ' ', ',', ';' }, StringSplitOptions.RemoveEmptyEntries);

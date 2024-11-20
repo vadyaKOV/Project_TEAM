@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,14 +49,18 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Class1.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Class1.cs",
-              "ToolTip": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Class1.cs",
-              "RelativeToolTip": "PROject_team\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Maks\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Main.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Main.cs",
+              "ToolTip": "C:\\Users\\Maks\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Main.cs",
+              "RelativeToolTip": "PROject_team\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T10:38:20.443Z",
               "EditorCaption": ""
@@ -83,8 +87,7 @@
               "RelativeToolTip": "PROject_team\\Magazine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T10:16:26.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T10:16:26.563Z"
             },
             {
               "$type": "Document",
@@ -109,10 +112,6 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T07:18:40.087Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
