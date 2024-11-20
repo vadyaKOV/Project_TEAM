@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PROject_team\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\project_team.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\project_team.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\maks\\source\\repos\\vadyakov\\project_team\\project_team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,89 +26,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Class1.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Class1.cs",
-              "ToolTip": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Class1.cs",
-              "RelativeToolTip": "PROject_team\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T10:38:20.443Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Article.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Article.cs",
-              "ToolTip": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Article.cs",
-              "RelativeToolTip": "PROject_team\\Article.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T10:16:41.724Z"
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Magazine.cs",
-              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Magazine.cs",
               "RelativeDocumentMoniker": "PROject_team\\Magazine.cs",
-              "ToolTip": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Magazine.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Magazine.cs",
               "RelativeToolTip": "PROject_team\\Magazine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T10:16:26.563Z",
+              "WhenOpened": "2024-11-20T11:16:00.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PROject_team.csproj",
-              "DocumentMoniker": "C:\\Users\\Maks\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\PROject_team.csproj",
-              "RelativeDocumentMoniker": "PROject_team\\PROject_team.csproj",
-              "ToolTip": "C:\\Users\\Maks\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\PROject_team.csproj",
-              "RelativeToolTip": "PROject_team\\PROject_team.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T09:55:44.916Z"
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Article.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Article.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Article.cs",
+              "RelativeToolTip": "PROject_team\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:14:17.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Program.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Program.cs",
-              "ToolTip": "C:\\Users\\Maks\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Program.cs",
-              "RelativeToolTip": "PROject_team\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABSAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Person.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Person.cs",
+              "RelativeToolTip": "PROject_team\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:18:40.087Z"
+              "WhenOpened": "2024-11-20T11:10:41.46Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Main.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Main.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Main.cs",
+              "RelativeToolTip": "PROject_team\\Main.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAA9wH4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:07:46.295Z",
+              "EditorCaption": ""
             }
           ]
         }
