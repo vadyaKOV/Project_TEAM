@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\PROject_team.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\PROject_team.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\PROject_team.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\PROject_team.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\PROject_team.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\PROject_team.csproj",
         "projectName": "PROject_team",
-        "projectPath": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\PROject_team.csproj",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\PROject_team.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\obj\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\vadyaKOV\\Project_TEAM\\PROject_team\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

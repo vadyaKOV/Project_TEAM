@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PROject_team\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\source\\repos\\vadyakov\\project_team\\project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\source\\repos\\vadyakov\\project_team\\project_team\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\source\\repos\\vadyakov\\project_team\\project_team\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\source\\repos\\vadyakov\\project_team\\project_team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|c:\\users\\user\\desktop\\project_team\\project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12EBFE92-D90E-4730-AB31-8C3EA27BB5F8}|PROject_team\\PROject_team.csproj|solutionrelative:project_team\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Magazine.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Magazine.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Magazine.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Magazine.cs",
-              "RelativeToolTip": "PROject_team\\Magazine.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAzwBMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:16:00.849Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -91,46 +78,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Article.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Article.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Article.cs",
-              "RelativeToolTip": "PROject_team\\Article.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Main.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Main.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Main.cs",
+              "RelativeToolTip": "PROject_team\\Main.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowI0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:14:17.33Z",
+              "WhenOpened": "2024-11-20T12:03:40.942Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Magazine.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Magazine.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Magazine.cs",
+              "RelativeToolTip": "PROject_team\\Magazine.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:03:31.024Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Person.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Person.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Person.cs",
-              "RelativeToolTip": "PROject_team\\Person.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Article.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Article.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Article.cs",
+              "RelativeToolTip": "PROject_team\\Article.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:10:41.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-11-20T11:58:54.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Main.cs",
-              "RelativeDocumentMoniker": "PROject_team\\Main.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PROject_team\\PROject_team\\Main.cs",
-              "RelativeToolTip": "PROject_team\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Person.cs",
+              "RelativeDocumentMoniker": "PROject_team\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\vadyaKOV\\Project_TEAM\\PROject_team\\Person.cs",
+              "RelativeToolTip": "PROject_team\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:07:46.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T11:56:43.116Z"
             }
           ]
         }
