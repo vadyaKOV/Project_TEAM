@@ -1,5 +1,5 @@
 ﻿using Person;
-using Article;
+using A=Article;
 using Magazine;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
@@ -12,7 +12,7 @@ int nrow = int.Parse(dimensions[0]);
 int ncolumn = int.Parse(dimensions[1]);
 int totalElements = nrow * ncolumn;
 
-int[] oneDimensionalArray = new int[totalElements];
+A.Article[] oneDimensionalArray = new A.Article[totalElements];
 InitializeOneDimensionalArray(oneDimensionalArray);
 long startTime = Environment.TickCount;
 PerformOperationOnOneDimensionalArray(oneDimensionalArray);
@@ -20,7 +20,7 @@ long endTime = Environment.TickCount;
 long oneDimensionalTime = endTime - startTime;
 
 // Двумерный прямоугольный массив
-int[,] rectangularArray = new int[nrow, ncolumn];
+A.Article[,] rectangularArray = new A.Article[nrow, ncolumn];
 InitializeRectangularArray(rectangularArray);
 startTime = Environment.TickCount;
 PerformOperationOnRectangularArray(rectangularArray);
@@ -28,10 +28,10 @@ endTime = Environment.TickCount;
 long rectangularTime = endTime - startTime;
 
 // Двумерный ступенчатый массив
-int[][] jaggedArray = new int[nrow][];
+A.Article[][] jaggedArray = new A.Article[nrow][];
 for (int i = 0; i < nrow; i++)
 {
-    jaggedArray[i] = new int[ncolumn];
+    jaggedArray[i] = new A.Article[ncolumn];
 }
 InitializeJaggedArray(jaggedArray);
 startTime = Environment.TickCount;
@@ -70,73 +70,88 @@ for (int i = 0; i < articlemass.Length; i++)
 
 }
 magazine.AddArticles(articlemass);
+magazine.AddArticles();
+magazine.AddArticles(articlemass[0],new Article.Article());
 Console.WriteLine("Вывод информации журнала: ");
 Console.WriteLine(magazine.ToString());
 
 // Инициализация массива (исправленная инициализация для ступенчатого массива)
-static void InitializeOneDimensionalArray(int[] arr)
+static void InitializeOneDimensionalArray(A.Article[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
     {
-        arr[i] = i;
+        arr[i] = new A.Article();
     }
 }
 
 // Инициализация двумерного прямоугольного массива
-static void InitializeRectangularArray(int[,] arr)
+static void InitializeRectangularArray(A.Article[,] arr)
 {
     for (int i = 0; i < arr.GetLength(0); i++)
     {
         for (int j = 0; j < arr.GetLength(1); j++)
         {
-            arr[i, j] = i * arr.GetLength(1) + j;
+            arr[i, j] = new A.Article();
         }
     }
 }
 
 // Инициализация двумерного ступенчатого массива
-static void InitializeJaggedArray(int[][] arr)
+static void InitializeJaggedArray(A.Article[][] arr)
 {
     int k = 0;
     for (int i = 0; i < arr.Length; i++)
     {
         for (int j = 0; j < arr[i].Length; j++)
         {
-            arr[i][j] = k++;
+            arr[i][j] = new A.Article();
         }
     }
 }
 
+// Инициализация двумерного ступенчатого массива
+//static void InitializeJaggedArray(Article.Article[][] arr)
+//{
+//    int k = 0;
+//    for (int i = 0; i < arr.Length; i++)
+//    {
+//        for (int j = 0; j < arr[i].Length; j++)
+//        {
+//            arr[i][j].Mark = 6;
+//        }
+//    }
+//}
+
 // Выполнение операции с элементами массива
-static void PerformOperationOnOneDimensionalArray(int[] arr)
+static void PerformOperationOnOneDimensionalArray(A.Article[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
     {
-        arr[i] += 1;
+        arr[i].Mark = 6;
     }
 }
 
 
 // Выполнение операции с двумерным прямоугольным массивом
-static void PerformOperationOnRectangularArray(int[,] arr)
+static void PerformOperationOnRectangularArray(A.Article[,] arr)
 {
     for (int i = 0; i < arr.GetLength(0); i++)
     {
         for (int j = 0; j < arr.GetLength(1); j++)
         {
-            arr[i, j] += 1;
+            arr[i, j].Mark = 6;
         }
     }
 }
 
 // Выполнение операции с двумерным ступенчатым массивом
-static void PerformOperationOnJaggedArray(int[][] arr)
+static void PerformOperationOnJaggedArray(A.Article[][] arr)
 {
     for (int i = 0; i < arr.Length; i++)
     {
         for (int j = 0; j < arr[i].Length; j++)
         {
-            arr[i][j] += 1;
+            arr[i][j].Mark = 6;
         }
     }
 }

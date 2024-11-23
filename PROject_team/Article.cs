@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Person;
+using p=Person;
 
 namespace Article
 {
@@ -25,7 +25,8 @@ namespace Article
         {
             return ($"{Person.ToShortString()} Название: {NameTitle} Оценка: {Mark}");
         }
-        public Person.Person Person { get; set; }
+    //    public Person.Person Person { get; set; }
+        public p.Person Person { get; set; }
         public string NameTitle { get; set; }
         public double Mark { get; set; }
     }
